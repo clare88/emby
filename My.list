@@ -10,11 +10,7 @@ DOMAIN,yd1.ccemby.ga
 DOMAIN,yd2.ccemby.ga
 
 # magpie
-DOMAIN,magpie.cyou
-DOMAIN,magsg.clare88.cf
-DOMAIN,mag.clare88.ga
-DOMAIN,magkr2.clare88.tk
-DOMAIN,magkr.clare88.tk
+DOMAIN-KEYWORD,mag
 
 #特卡
 DOMAIN,emby.carlos.trade
